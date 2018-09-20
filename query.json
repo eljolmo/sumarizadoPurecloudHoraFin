@@ -1,0 +1,9 @@
+{
+ "interval": "2018-09-19T22:00:00.000Z/2018-09-20T12:10:00.000Z",
+ "order": "asc",
+ "orderBy": "conversationStart",
+ "paging": {
+  "pageSize": 40,
+  "pageNumber": 1
+ }
+}
